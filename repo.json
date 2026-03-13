@@ -1,0 +1,19 @@
+[
+  {
+    "Author": "Arcadia",
+    "Name": "prog4u",
+    "InternalName": "prog4u",
+    "Punchline": "Accept prog requests and auto-create PF listings.",
+    "Description": "Helper plugin for prog4u.com. Automatically creates and manages Party Finder listings when players request help with prog sessions.",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "Tags": ["UI", "Utility", "Party Finder"],
+    "CategoryTags": ["other"],
+    "AssemblyVersion": "0.1.0.0",
+    "DownloadLinkInstall": "https://github.com/Arcadia64/dalamud-plugins/releases/latest/download/prog4u-latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Arcadia64/dalamud-plugins/releases/latest/download/prog4u-latest.zip",
+    "DownloadCount": 0,
+    "IsHide": false,
+    "IsTestingExclusive": false
+  }
+]
