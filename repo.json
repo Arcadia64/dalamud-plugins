@@ -9,7 +9,7 @@
     "DalamudApiLevel": 14,
     "Tags": ["UI", "Utility", "Party Finder"],
     "CategoryTags": ["other"],
-    "AssemblyVersion": "0.1.0.0",
+    "AssemblyVersion": "0.2.0.0",
     "DownloadLinkInstall": "https://github.com/Arcadia64/dalamud-plugins/releases/latest/download/prog4u-latest.zip",
     "DownloadLinkUpdate": "https://github.com/Arcadia64/dalamud-plugins/releases/latest/download/prog4u-latest.zip",
     "DownloadCount": 0,
