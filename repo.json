@@ -1,0 +1,20 @@
+[
+  {
+    "Author": "phil",
+    "Name": "prog4u",
+    "InternalName": "prog4u",
+    "Punchline": "Let helpers manage your PF listing remotely.",
+    "Description": "Automated Party Finder control for helper-assisted prog sessions. Connects to prog4u.com so helpers can create and manage PF listings for you remotely via a web interface.",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "Tags": ["UI", "Utility", "Party Finder"],
+    "CategoryTags": ["other"],
+    "AssemblyVersion": "0.1.0.0",
+    "RepoUrl": "https://github.com/Arcadia64/dalamud-plugins",
+    "DownloadLinkInstall": "https://github.com/Arcadia64/dalamud-plugins/releases/latest/download/prog4u-latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Arcadia64/dalamud-plugins/releases/latest/download/prog4u-latest.zip",
+    "DownloadCount": 0,
+    "IsHide": false,
+    "IsTestingExclusive": false
+  }
+]
